@@ -1,0 +1,11 @@
+{
+  "name": "jola-made-me-try-tailwind",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:BolajiOlajide/jola-made-me-try-tailwind.git",
+  "author": "BolajiOlajide",
+  "license": "MIT",
+  "devDependencies": {
+    "tailwindcss": "^0.7.4"
+  }
+}
