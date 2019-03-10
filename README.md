@@ -21,3 +21,9 @@ yarn init:tailwind
 ```bash
 yarn build:tailwind
 ```
+
+- Then open the webpage with the command
+
+```bash
+yarn start
+```
