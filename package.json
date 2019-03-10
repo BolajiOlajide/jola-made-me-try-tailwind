@@ -5,6 +5,9 @@
   "repository": "git@github.com:BolajiOlajide/jola-made-me-try-tailwind.git",
   "author": "BolajiOlajide",
   "license": "MIT",
+  "scripts": {
+    "init:tailwind": "tailwind init tailwind.js"
+  },
   "devDependencies": {
     "tailwindcss": "^0.7.4"
   }
