@@ -6,7 +6,8 @@
   "author": "BolajiOlajide",
   "license": "MIT",
   "scripts": {
-    "init:tailwind": "tailwind init tailwind.js"
+    "init:tailwind": "tailwind init tailwind.js",
+    "build:tailwind": "tailwind build styles.css -o output.css"
   },
   "devDependencies": {
     "tailwindcss": "^0.7.4"

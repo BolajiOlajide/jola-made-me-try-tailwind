@@ -15,3 +15,9 @@ yarn
 ```bash
 yarn init:tailwind
 ```
+
+- Use the command below to build the css to be used by the html
+
+```bash
+yarn build:tailwind
+```
